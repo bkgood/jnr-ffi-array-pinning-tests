@@ -9,7 +9,8 @@ Requires a build of `jnr-ffi` that enables array parameter pinning.
 
 One can be built and installed via [pass-pinned-to-jffi in
 bkgood/jnr-ffi](https://github.com/bkgood/jnr-ffi/tree/pass-pinned-to-jffi).
-None, just clone.
+
+Otherwise none, just clone.
 
 ## Usage
 
